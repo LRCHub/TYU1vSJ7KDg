@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Final Spring",
+  "base_artist": "Kitkit Lu",
+  "createdAt": "2026-02-08T20:44:58.197577Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Final Spring",
+      "artist": "Kitkit Lu",
+      "has_synced": false,
+      "path": "select/pl_01_Final_Spring_Kitkit_Lu.txt"
+    }
+  ]
+}
